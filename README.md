@@ -13,7 +13,7 @@ In this project, the goal is to be one report which could be used by stakeholder
 2. User-empathetic Report design
 3. Drillable Insights
 
-I learned the following things in this project
+I applied the following things in this project
 1. Power Query (Basic and Advanced Operations) 
 2. Basic and complex DAX formulas
 3. Data modelling involving 10+ tables
