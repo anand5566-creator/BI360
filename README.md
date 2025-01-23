@@ -6,14 +6,14 @@ AtliQ Hardwares is a consumer electronics company expanding rapidly but is not a
 
 **************************
 
-Project Description: 
+## Project Description: 
 In this project, the goal is to be one report which could be used by stakeholders from sales, marketing, finance and executive team. The focus is made on the following
 
 1. Robust Data Modeling
 2. User-empathetic Report design
 3. Drillable Insights
 
-I applied the following things in this project
+## I applied the following things in this project
 1. Power Query (Basic and Advanced Operations) 
 2. Basic and complex DAX formulas
 3. Data modelling involving 10+ tables
