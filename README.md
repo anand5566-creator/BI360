@@ -1,4 +1,4 @@
-# BI360
+# Power BI 
 # Title: Business Insights 360 Dashboard for Finance, Sales, Marketing and Supply Chain
 Project Short Info: 
 
